@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Zijie Zhang（张子杰）
+    name: Zijie Zhang
     tagline: Graduate Student
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -48,19 +48,11 @@ education:
     - degree: M.Eng in Software Engineering
       university: Nanjing University
       time: 2019 - Now
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
-          - Bullet point
-          - Bullet point
+      details: 
     - degree: B.E in Electronic Engineering
       university: Tianjin University
       time: 2015 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
-          - Bullet point
-          - Bullet point
+      details:
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -88,12 +80,16 @@ projects:
     #   section.
     assignments:
       - title: CRender
-        link: "github.com/zjzhangd/crender"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://github.com/zjzhangd/crender"
+        tagline: "Some geometry rendering demos, don't use any graphics library, just pure C"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: TCServer
+        link: "https://github.com/NJU-APG/tcserver"
+        tagline: "A high performance based reactor mode"
+
+      - title: NeuralNetKit
+        link:
+        tagline: "A simple neural net toolkit based on NumPy supporting both floating potint and fixed point numbers"
 
 publications:
     title: Publications
@@ -101,7 +97,7 @@ publications:
     #   You can list your publications in this section.
     papers:
       - title: Images Synthesis and Resolution Refinement Using Generative Adversarial Network
-        link: "#"
+        link: "https://link.springer.com/chapter/10.1007/978-981-13-6504-1_74"
         authors: Zijie Zhang, Jian Han et al.
         conference: CSPS, 2018
 
