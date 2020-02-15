@@ -31,7 +31,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-    兴趣爱好:
+    Hobbies:
       - item: 烹饪 :)
         link:
 
@@ -47,7 +47,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-教育经历:
+Education:
     - degree: 软件工程（硕士在读）
       university: 南京大学
       time: 2019 - 至今
@@ -133,12 +133,7 @@ publications:
       - title: Images Synthesis and Resolution Refinement Using Generative Adversarial Network
         link: "#"
         authors: Zijie Zhang, Jian Han et al.
-        conference: CSPS, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: CSPS, 2018
 
 skills:
     title: Skills &amp; Proficiency
@@ -147,7 +142,7 @@ skills:
       - name: C/C++
         level: 90%
 
-      - name: Linux System Programming
+      - name: Linux
         level: 85%
 
       - name: Python
