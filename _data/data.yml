@@ -33,10 +33,10 @@ sidebar:
 
     Hobbies:
       - item: Cooking
-        link:
+        link: "#"
 
       - item: Climbing
-        link:
+        link: "#"
 
 career-profile:
     title: Career Profile
