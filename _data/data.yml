@@ -43,31 +43,22 @@ career-profile:
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Aenean commodo ligula eget dolor aenean massa.
 Education:
-    - degree: 软件工程（硕士在读）
-      university: 南京大学
-      time: 2019 - 至今
+    - degree: MSc in Software Engineering
+      university: Nanjing University
+      time: 2019 - Now
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        adipiscing elit.
           - Bullet point
           - Bullet point
-    - degree: 通信工程（学士）
-      university: 天津大学
+    - degree: BSc in Electronic Engineering
+      university: Tianjin University
       time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        adipiscing elit.
           - Bullet point
           - Bullet point
 experiences:
@@ -78,12 +69,7 @@ experiences:
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        nascetur ridiculus mus.
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
@@ -91,10 +77,7 @@ experiences:
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        adipiscing elit.
           - Bullet point
           - Bullet point
     - role: UI Developer
@@ -102,10 +85,7 @@ experiences:
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        adipiscing elit.
           - Bullet point
           - Bullet point
 projects:
@@ -126,9 +106,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      You can list your publications in this section.
     papers:
       - title: Images Synthesis and Resolution Refinement Using Generative Adversarial Network
         link: "#"
@@ -149,7 +127,7 @@ skills:
         level: 80%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
