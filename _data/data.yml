@@ -39,39 +39,34 @@ sidebar:
         link: "#"
 
 career-profile:
-    title: Career Profile
+    title: Self introduction
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa.
+      Hi, I'm Zijie Zhang, a student at Nanjing University. I'm interested in 
+      infrastructure development, network programming. I also know a little about images generation,
+      mainly based on GAN. I love cooking and climbing.
+      Happy coding! :)
 education:
     - degree: M.Eng in Software Engineering
       university: Nanjing University
-      time: 2019 - Now
+      time: 2019 - Present
       details: 
     - degree: B.E in Electronic Engineering
       university: Tianjin University
       time: 2015 - 2019
       details:
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Development Engineer Intern
+      time: 2019.06 - 2019.09
+      company: Baidu, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Automated testing of Paddle operators and kernels
+          - Performance analysis of Fixed point operators
+    - role: Software Development Engineer Intern
+      time: 2018.10 - 2019.01
+      company: FIS Group, Tianjin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
-          - Bullet point
-          - Bullet point
+          - Participate into refactoring finacial accounting systems
+          - Personas construtions based on RBF-SVM
 
 projects:
     title: Projects
@@ -98,7 +93,7 @@ publications:
     papers:
       - title: Images Synthesis and Resolution Refinement Using Generative Adversarial Network
         link: "https://link.springer.com/chapter/10.1007/978-981-13-6504-1_74"
-        authors: Zijie Zhang, Jian Han et al.
+        authors: Jian Han and Zijie Zhang et al. (equal contribution)
         conference: CSPS, 2018
 
 skills:
