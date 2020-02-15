@@ -7,9 +7,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Zijie Zhang
+    name: 张子杰
     tagline: 学生
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mzijiezhang@gmail.com
@@ -34,7 +34,7 @@ sidebar:
     #   - idiom: Spanish
     #     level: Professional
 
-    兴趣爱好:
+    Hobbies:
       - item: 烹饪 :)
         link:
 
