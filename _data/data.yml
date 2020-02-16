@@ -76,7 +76,7 @@ projects:
     assignments:
       - title: CRender
         link: "https://github.com/zjzhangd/crender"
-        tagline: "Some geometry rendering demos, don't use any graphics library, just pure C"
+        tagline: "Without any graphics library, render with PURE C"
         demos:
           - img: rf.png
           - img: sierpinski.png
@@ -84,6 +84,8 @@ projects:
       - title: TCServer
         link: "https://github.com/NJU-APG/tcserver"
         tagline: "A high performance based reactor mode"
+        demos:
+          - img: tcserver.jpg
 
       - title: NeuralNetKit
         link:
