@@ -83,7 +83,7 @@ projects:
 
       - title: TCServer
         link: "https://github.com/NJU-APG/tcserver"
-        tagline: "A high performance based reactor mode"
+        tagline: "A high performance server based reactor mode"
         demos:
           - img: tcserver.jpg
 
@@ -91,7 +91,7 @@ projects:
         link:
         tagline: "A simple neural net toolkit based on NumPy supporting both floating potint and fixed point numbers"
         demos:
-          - img: NumPy_logo.png
+          - img: numpy.png
 
 publications:
     title: Publications
