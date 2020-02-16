@@ -85,7 +85,7 @@ projects:
         link: "https://github.com/NJU-APG/tcserver"
         tagline: "A high performance server based reactor mode"
         demos:
-          - img: tcserver.jpg
+          - img: tcserver.png
 
       - title: NeuralNetKit
         link:
