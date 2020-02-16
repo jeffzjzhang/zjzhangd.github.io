@@ -90,6 +90,8 @@ projects:
       - title: NeuralNetKit
         link:
         tagline: "A simple neural net toolkit based on NumPy supporting both floating potint and fixed point numbers"
+        demos:
+          - img: NumPy_logo.png
 
 publications:
     title: Publications
