@@ -89,7 +89,7 @@ projects:
 
       - title: NeuralNetKit
         link:
-        tagline: "A simple neural net toolkit based on NumPy supporting both floating potint and fixed point numbers"
+        tagline: "A simple neural net toolkit based on NumPy supporting both floating point and fixed point numbers"
         demos:
           - img: numpy.png
 
@@ -116,7 +116,7 @@ skills:
       - name: Python
         level: 80%
 
-      - name: Ruby on Rails
+      - name: Golang
         level: 70%
 
 footer: >
